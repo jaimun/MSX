@@ -1,0 +1,10 @@
+
+Here you have the programs I wrote on my MSX2 computer around 1986.
+
+There're some utilities, as a Sprite designer.
+
+The most important are:
+- Warhol, a paint program taking advantage of the copy part of image/paste with bit operations.
+- SimModul, a paint program that explores the different symmetry operations, in a 4 modules painting. 
+Both use a GUI I invented using sprites as interface icons.
+
